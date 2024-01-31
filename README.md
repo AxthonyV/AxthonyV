@@ -1,8 +1,3 @@
-<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
-<p align=center>
-<a href="https://discord.com/users/501609226863378432"><img src="https://discord.c99.nl/widget/theme-4/1118881083841331242.png" width=50%></a>
- </p>
-
 ```sh-session
 pip install boobs 
 ```
