@@ -1,5 +1,5 @@
 ```sh-session
-pip install boobs 
+pip install soda 
 ```
 <p align="center"><img src="https://moe-counter.glitch.me/get/@:addi00000" alt=":addi00000" /></p>
 
