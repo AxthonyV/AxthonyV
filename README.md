@@ -1,7 +1,7 @@
 ```sh-session
 pip install boobs 
 ```
-<p align="center"><img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" /></p>
+<p align="center"><img src="https://moe-counter.glitch.me/get/@:addi00000" alt=":addi00000" /></p>
 
  
 
