@@ -1,7 +1,7 @@
 ```sh-session
 pip install soda 
 ```
-<p align="center"><img src="https://moe-counter.glitch.me/get/@:addi00000" alt=":addi00000" /></p>
+<p align="center"><img src="https://counter.katomegumi.net/get/@:AxthonyV" alt=":AxthonyV" /></p>
 
  
 
