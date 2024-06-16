@@ -1,7 +1,13 @@
 ```sh-session
 pip install soda 
 ```
-<p align="center"><img src="https://counter.katomegumi.net/get/@:AxthonyV" alt=":AxthonyV" /></p>
+<h2 align="center">👁️‍🗨️ Visits 👁️‍🗨️</h2>
+
+<p align="center">
+  <img src="https://counter.katomegumi.net/get/@:AxthonyV" alt="Visits Counter" />
+
+
+
 
  
 
