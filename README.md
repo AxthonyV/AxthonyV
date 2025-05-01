@@ -1,10 +1,6 @@
 ```sh-session
 pip install soda 
 ```
-<h2 align="center">👁️‍🗨️ Visits 👁️‍🗨️</h2>
-
-<p align="center">
-  <img src="https://counter.katomegumi.net/get/@:AxthonyV" alt="Visits Counter" />
 
 
 
