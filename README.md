@@ -8,7 +8,6 @@
 - 🔭 I'm currently working on **Python, JavaScript, CSS, HTML**
 - 🌱 I'm currently learning **Java, React, Tailwind CSS**
 - 🤖 I am passionate about creating bots, automating tasks, and developing useful tools.
-- 👨‍💻 All of my projects are available at [https://github.com/AxthonyV](https://github.com/AxthonyV)
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
