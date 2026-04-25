@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Axthony" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Axthony" alt="Typing SVG" />
     </a>
 </div>
 
@@ -15,61 +15,60 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="text-align: center;">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,css,html,discord,java" />
+    <img src="https://skillicons.dev/icons?i=js,python,css,html,discord,java" alt="Skills" />
   </a>
 </div>
 
 <br>
 
-<h3 align="left">Languages Used:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxthonyV&theme=shadow_blue&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxthonyV&theme=shadow_blue&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-    <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AxthonyV&rank_icon=github&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&custom_title=GitHub⠀Stats&show_icons=true"/>
-    </p>
-</div>
+<br>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AxthonyV&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE)](https://streak-stats.demolab.com/?user=AxthonyV)
+  <img src="https://github-readme-stats.vercel.app/api?username=AxthonyV&rank_icon=github&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&custom_title=GitHub%20Stats&show_icons=true" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://streak-stats.demolab.com/?user=AxthonyV">
+    <img src="https://streak-stats.demolab.com?user=AxthonyV&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
     <a href="https://github.com/AxthonyV/AxthonyV">
-        <img alt="AxthonyV's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AxthonyV&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+        <img alt="AxthonyV's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AxthonyV&bg_color=00000000&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" />
     </a>
 </div>
 
 <br>
 
 <div align="center">
-  ![snake gif](https://github.com/AxthonyV/AxthonyV/blob/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)
+  <img src="https://github.com/AxthonyV/AxthonyV/raw/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE" alt="Snake animation" />
 </div>
 
 <br>
 
 <div align="center">
   <p><b>👥 Visitors Count</b></p>
-  <p>
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=AxthonyV&repo=AxthonyV&countColor=%2300abf0&labelColor=%23000000" alt="Visitor Count" />
-  </p>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=AxthonyV&repo=AxthonyV&countColor=%2300abf0&labelColor=%23000000" alt="Visitor Count" />
 </div>
 
 <br>
 
-</details>
-
 <div align="center">
-<br>
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again!;Have+a+good+day!" alt="Typing SVG" />
-</a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again!;Have+a+good+day!" alt="Typing SVG" />
+    </a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
